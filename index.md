@@ -55,5 +55,5 @@
 
 ## OTHER SKILLS
 ---
-### Program Skills:master C++, python 
+### Program Skills:Master C++, python 
 ### Language Skills:Native speakers of Chinese, fluent in English
