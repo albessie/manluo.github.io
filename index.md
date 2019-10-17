@@ -48,12 +48,12 @@
 ## HONORS & AWARDS
 ---
 ### Excellent Graduate             2019
-### First-class academic scholarship **three time**             2016&2017&2018
+### First-class academic scholarship **THREE TIMES**             2016&2017&2018
 ### Zhixing third-class scholarship             2016-2017
 ### Shanghai Outstanding Graduate             2016-2017
 ### Merit Students Award             2013-2014
 
 ## OTHER SKILLS
 ---
-### Program Skills:Master C++, python 
+### Program Skills:Master C++, Matlab, Python 
 ### Language Skills:Native speakers of Chinese, fluent in English
