@@ -41,7 +41,8 @@
 ## PROFESSIONAL EXPERIENCE
 ---
 ### Brain Science and Medical Cross-Joint Laboratory, China Electrics Science Research Institute             2019.09-Now
-+ Used the deep learning model to automatically recognize the number of the medicine tablets and capsules on individuals’ palms in natural scenes. Now we are preparing the dataset.
++ Used the deep learning model YOLOv3 to automatically recognize the number of the medicine tablets and capsules on individuals’ palms in natural scenes.
+
 + Analyzed the connection between the individuals’ daily levels of stress and daily data collected by their smartphone sensors. Tried to figure out whether that information could be behavioral marker for one’s mental health. 
 
 ## HONORS & AWARDS
