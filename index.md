@@ -55,5 +55,5 @@
 
 ## OTHER SKILLS
 ---
-### Computer Skills:Second-level Certificate for National Computer
+### Program Skills:master C++, python 
 ### Language Skills:Native speakers of Chinese, fluent in English
